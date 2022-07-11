@@ -1,1 +1,1 @@
-# Searching
+# Competitive Programming
